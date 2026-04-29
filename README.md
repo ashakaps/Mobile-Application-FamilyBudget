@@ -1,11 +1,4 @@
-family_budget.zip - разработка которую можно развернуть на android studio для работы над приложением
-
-
 FamilyBudget.apk - файл для установки на смартфон
-
-
-Дизайн брался с открытых исходников у блогера на YouTube
-
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a823aca5-856a-49ad-9ed1-b89ead444f54" width="600" />
@@ -32,4 +25,7 @@ FamilyBudget.apk - файл для установки на смартфон
   <img src="https://github.com/user-attachments/assets/98f1a49a-8889-47b9-b035-18ddcb17f142" width="600" />
 </p>
 
+family_budget.zip - разработка которую можно развернуть на android studio для работы над приложением (в архивированном состоянии весит больше 600 МБ, что не позволяет напрямую добавить его в репозиторий)
+
 Презентация также доступна в "Презентация разработки.pdf"
+> Дизайн брался с открытых исходников у блогера на YouTube
